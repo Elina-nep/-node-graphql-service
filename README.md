@@ -1,1 +1,1 @@
-# -node-graphql-service
+# node-graphql-service
